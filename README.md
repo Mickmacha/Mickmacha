@@ -10,10 +10,11 @@ I am a Software Developer and Data Scientist/ML Engineer with a passion for deve
 </ul>
 
 ### Skills
-Languages: Python, JavaScript, SQL
-Frameworks: Django, Flask, React
-Machine Learning: scikit-learn, PyTorch, TensorFlow
-
+<ul>
+<li>Languages: Python, JavaScript, SQL</li>
+<li>Frameworks: Django, Flask, React</li>
+<li>Machine Learning: scikit-learn, PyTorch, TensorFlow</li>
+</ul>
 
 <img alt="stats" align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=Mickmacha&show_icons=true">
 
