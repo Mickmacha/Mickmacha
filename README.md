@@ -1,5 +1,5 @@
 ## Hello, My name is Michael Macharia 👋
-I am a Data Scientist/ML Engineer with a passion for developing innovative solutions to complex problems.
+I am a Software Engineer/ AI/ML Engineer with a passion for developing innovative solutions to complex problems.
 
 ### About Me
 <ul>
